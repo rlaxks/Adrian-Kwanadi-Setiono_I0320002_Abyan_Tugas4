@@ -1,4 +1,4 @@
-s = "Helpful and Handsome"
+s = "Striker and Handsome"
 
 #Panjangnya harusnya 20
 
